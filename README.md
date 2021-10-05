@@ -1,5 +1,6 @@
 # REC2020-Covid-Bus-Prevention
 Designed a TTC bus seating plan and isolation elements to prevent / reduce the transmission of Covid-19 for the Ryerson Engineering Competition 2020 (REC2020). 
+
 Obtained 1st place with Kevin Dang, Wayne Sie, & Yajurva Trivedi.
 
 Check out the webpage at https://smartbus.vercel.app/. Credit to Yajurva Trivedi, 2020.
